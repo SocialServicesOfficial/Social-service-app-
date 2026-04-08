@@ -2,141 +2,88 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Smart%20Service-Ordering%20App-blueviolet?style=for-the-badge" />
-</p>   
-   
-   <a href="https://ibb.co/Q7Jy5YmN"><img src="https://i.ibb.co/WNHmTBKy/file-0000000023b07208b7999629e36493a8.png" alt="file-0000000023b07208b7999629e36493a8" border="0"></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=6C63FF&center=true&vCenter=true&width=800&lines=Social+Services+Official;Smart+Service+Ordering+App" />
+</p>
+
+  <a href="https://ibb.co/Q7Jy5YmN"><img src="https://i.ibb.co/WNHmTBKy/file-0000000023b07208b7999629e36493a8.png" alt="file-0000000023b07208b7999629e36493a8" border="0"></a>
 
 
-
-Welcome to Social Services Official, a modern, user-friendly, and powerful service management application designed to simplify the way users request and manage digital services. This platform is built with a focus on smooth user experience, real-time interaction, and professional service delivery. 
-
+Welcome to Social Services Official, a modern, user-friendly, and powerful service management application designed to simplify the way users request and manage digital services. This platform is built with a focus on smooth user experience, real-time interaction, and professional service delivery.
 
 Whether you are a user looking to place an order or an admin managing multiple service requests, this app provides a seamless and efficient system that works beautifully across devices.
 
 ---
-<h1 align="center">🌟 About the App</h1>
 
 
-Social Services Official is a complete ecosystem where users can:
+<p align="center">
+  <a href="https://socialservicesofficial.blogspot.com/2026/03/social-service-official-website_11.html">
+    <img src="https://i.ibb.co/kgfw61Qt/Picsart-26-04-07-17-08-48-751.png" width="95%" />
+  </a>
+</p>
 
-- Place service orders بسهولة
-- Choose flexible payment options
-- Track order progress in real-time
-- Communicate with support team
-- Manage their profile and details
+<h2 align="center">🚀 Social Services Official</h2>
+<p align="center">💡 Smart Service Ordering App</p>
 
-At the same time, admins get a powerful dashboard to:
 
-- View all incoming orders
-- Manage order statuses
-- Track payments
-- Provide support and updates
 
-This app is designed with a clean UI, smooth animations, and a mobile-first approach to ensure the best experience.
+🌟 About The Project
+
+Social Services Official is a modern and powerful service management application that allows users to easily place orders, choose payment options, and track their services in real-time.
+
+This app is designed with a clean UI, smooth animations, and a mobile-first experience, making it perfect for both users and administrators.
+
 
 ---
 
-🎯 Key Features
+<h1 align="center">🎯 Features</h1>
 
-🛒 1. Easy Order System
 
-Users can quickly place orders by selecting:
+🛒 Order System
 
-- Service Type
-- Plan
-- Custom Details
+- Easy service selection
+- Fast order placement
+- Custom details support
 
-The process is simple, fast, and user-friendly.
+<a href="https://ibb.co/h1sMMV8H"><img src="https://i.ibb.co/vv1BBkzm/file-0000000046fc71fabc75d4544e329300.png" alt="file-0000000046fc71fabc75d4544e329300" border="0"></a>
 
----
-
-💳 2. Flexible Payment Options
-
-Users can choose from:
+💳 Payment System
 
 - Full Payment
 - Half Payment
-- Pay After Completion
+- Pay Later option
 
-This flexibility improves trust and usability.
-
----
-
-📦 3. Order Tracking System
-
-Users can track their orders with statuses like:
+📦 Order Tracking
 
 - Pending
 - Working
 - Completed
 
-Everything is visible inside the app without confusion.
+💬 Support Chat
 
----
+- Direct communication with admin
+- Fast issue resolution
 
-🎉 4. Smart Confirmation System
+👤 User Profile
 
-After placing an order:
-
-- Users get a confirmation screen
-- Admin receives notification
-- System ensures smooth workflow
-
----
-
-💬 5. Support Chat System
-
-Users can communicate with the support team directly:
-
-- Ask questions
-- Get updates
-- Resolve issues quickly
-
----
-
-👤 6. Profile Management
-
-Users can:
-
-- Update name
-- Add phone number
 - Save personal details
+- Edit anytime
+
+📊 Dashboard
+
+- Total Orders
+- Pending Orders
+- Completed Orders
 
 ---
 
-📊 7. Real-Time Stats Dashboard
-
-Users can see:
-
-- Total orders
-- Pending orders
-- Completed orders
-
----
-
-🎨 8. Modern UI Design
-
-- Smooth animations (Framer Motion)
-- Clean layout
-- Mobile optimized
-- Professional look
-
----
-## 🌐 Official Website
-
-<p align="center">
-  <a href="https://socialservicesofficial.blogspot.com/2026/03/social-service-official-website_11.html">
-    <img src="https://img.shields.io/badge/Visit%20Website-Social%20Services%20Official-blue?style=for-the-badge&logo=google-chrome" />
-  </a>
-</p>
-
----
-
-🔄 How It Works
+🚀 How It Works
 
 1. User opens the app
-2. Clicks on “Order Now”
-3. Selects service and fills details
+2. Clicks on Order Now
+3. Selects service & fills details
 4. Chooses payment option
 5. Confirms order
 6. Admin processes request
@@ -145,121 +92,133 @@ Users can see:
 
 ---
 
+## 🚀 Explore Our Platform
+
+<p align="center">
+  <a href="https://socialservicesofficial.blogspot.com/2026/03/social-service-official-website_11.html">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Official%20Website-Click%20Here-ff6b6b?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+🧑‍💻 Tech Stack
+
+- ⚛️ React + TypeScript
+- 🎨 Tailwind CSS
+- 🎬 Framer Motion
+- 🔥 Supabase (optional backend)
+- 🧩 ShadCN UI
+
+---
 
 🔐 Privacy Policy
 
-We respect your privacy and are committed to protecting your personal information.
+We respect your privacy and ensure your data is safe.
 
-📌 Information We Collect
+📌 Data We Collect
 
 - Name
-- Email address
-- Phone number
-- Order details
+- Email
+- Phone Number
+- Order Details
 
-📌 How We Use Information
+📌 Usage
 
 - To process orders
 - To contact users
 - To improve services
-- To provide support
 
-📌 Data Security
+📌 Security
 
-We take appropriate security measures to protect your data from unauthorized access, misuse, or disclosure.
-
-📌 Data Sharing
-
-We do NOT sell or share your personal data with third parties except when necessary for service delivery.
-
-📌 User Control
-
-Users can update or modify their information anytime within the app.
+Your data is protected and never sold to third parties.
 
 ---
 
 📜 Terms of Use
 
-By using this application, you agree to the following terms:
-
-✔ Usage Rules
-
-- You must provide accurate information
-- You must not misuse the platform
-- You agree to follow all guidelines
-
-✔ Payments
-
-- Payments are based on selected plans
-- Partial or full payment options are available
-- Refund policy depends on service type
-
-✔ Service Delivery
-
-- Delivery time may vary depending on service
-- Admin team will contact users for updates
-
-✔ Account Responsibility
-
-- Users are responsible for their account activity
-- Do not share login credentials
-
-✔ Termination
-
-We reserve the right to suspend accounts that violate terms.
+- Provide accurate information
+- Do not misuse the platform
+- Payments depend on selected plan
+- Admin has rights to manage orders
+- Violating rules may lead to account restriction
 
 ---
 
-⚙️ Tech Stack
+📂 Project Structure
 
-- React + TypeScript
-- Tailwind CSS
-- Framer Motion
-- Supabase (optional backend)
-- Modern UI Components
+src/
+ ├── components/
+ ├── pages/
+ ├── hooks/
+ ├── integrations/
+ ├── contexts/
 
 ---
 
-💡 Future Plans
+⚙️ Installation
 
-- Real-time notifications
-- Advanced admin dashboard
-- Payment gateway integration
-- Multi-language support
-- AI-based recommendations
+git clone https://github.com/shaa429/Social-service-app-.git
+
+cd your-repo
+
+npm install
+
+npm run dev
 
 ---
 
 🤝 Contributing
 
-We welcome contributions!
+Contributions are welcome!
 
-If you want to improve this project:
-
-- Fork the repository
-- Make changes
-- Submit a pull request
-
----
-
-📞 Support
-
-If you face any issues:
-
-- Use in-app chat
-- Contact admin
-- Email support (optional)
+1. Fork the repo
+2. Create new branch
+3. Make changes
+4. Submit Pull Request
 
 ---
 
-❤️ Final Note
+⭐ Support
 
-This app is built with passion to simplify service management and provide a smooth digital experience for both users and admins.
+If you like this project:
 
-If you like this project, don’t forget to ⭐ star the repository and share it with others!
+👉 Give it a ⭐ star
+👉 Share with others
 
 ---
 
-🚀 Build. Manage. Grow.
+## 🌐 Connect With Us
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📞%20Phone-7827847969-blue?style=for-the-badge" /><br><br>
+  <img src="https://img.shields.io/badge/📧%20Email-shaan1002006%40gmail.com-red?style=for-the-badge" /><br><br>
+  <a href="https://socialservicesofficial.blogspot.com/2026/03/social-service-official-website_11.html">
+    <img src="https://img.shields.io/badge/🌐%20Website-Visit%20Now-green?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+❤️ Made With Passion
+
+«This project is built to simplify digital services and create a smooth experience for users and admins.»
+
+---
+
+<p align="center">
+  🚀 <b>Build • Manage • Grow</b>
+</p>
 
 
+<p align="center">
+  <b>Fast • Secure • Professional • User Friendly</b>
+</p><p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Platform-App-orange?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Available-Android_IOS-orange?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Made%20With-React-61dafb?style=for-the-badge" /></a>
+</p>
+
+---
