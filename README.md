@@ -1,14 +1,21 @@
+<h1 align="center">🚀 Social Services Official</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Smart%20Service-Ordering%20App-blueviolet?style=for-the-badge" />
+</p>   
+   
    <a href="https://ibb.co/Q7Jy5YmN"><img src="https://i.ibb.co/WNHmTBKy/file-0000000023b07208b7999629e36493a8.png" alt="file-0000000023b07208b7999629e36493a8" border="0"></a>
 
-🚀 Social Services Official – Smart Service Ordering App
 
-Welcome to Social Services Official, a modern, user-friendly, and powerful service management application designed to simplify the way users request and manage digital services. This platform is built with a focus on smooth user experience, real-time interaction, and professional service delivery.
+
+Welcome to Social Services Official, a modern, user-friendly, and powerful service management application designed to simplify the way users request and manage digital services. This platform is built with a focus on smooth user experience, real-time interaction, and professional service delivery. 
+
 
 Whether you are a user looking to place an order or an admin managing multiple service requests, this app provides a seamless and efficient system that works beautifully across devices.
 
 ---
+<h1 align="center">🌟 About the App</h1>
 
-🌟 About the App
 
 Social Services Official is a complete ecosystem where users can:
 
@@ -123,6 +130,8 @@ Users can see:
   </a>
 </p>
 
+---
+
 🔄 How It Works
 
 1. User opens the app
@@ -136,8 +145,6 @@ Users can see:
 
 ---
 
-
----
 
 🔐 Privacy Policy
 
@@ -254,3 +261,5 @@ If you like this project, don’t forget to ⭐ star the repository and share it
 ---
 
 🚀 Build. Manage. Grow.
+
+
