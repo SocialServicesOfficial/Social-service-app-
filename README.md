@@ -91,7 +91,7 @@ This app is designed with a clean UI, smooth animations, and a mobile-first expe
 ## 🚀 Explore Our Platform
 
 <p align="center">
-  <a href="https://socialservicesofficial.blogspot.com">
+  <a href="https://socialserviceofficial.blogspot.com/2026/03/social-service-official-website_11.html">
     <img src="https://img.shields.io/badge/🌐%20Visit%20Official%20Website-Click%20Here-ff6b6b?style=for-the-badge" />
   </a>
 </p>
