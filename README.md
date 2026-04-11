@@ -17,9 +17,8 @@ Whether you are a user looking to place an order or an admin managing multiple s
 
 <p align="center">
   <a href="https://socialservicesofficial.blogspot.com/2026/03/social-service-official-website_11.html">
-    <img src="https://i.ibb.co/kgfw61Qt/Picsart-26-04-07-17-08-48-751.png" width="95%" />
-  </a>
-</p>
+    
+<a href="https://ibb.co/dh3WGff"><img src="https://i.ibb.co/6dpngyy/file-0000000046fc71fabc75d4544e329300.png" alt="file-0000000046fc71fabc75d4544e329300" border="0"></a>
 
 <h2 align="center">🚀 Social Services Official</h2>
 <p align="center">💡 Smart Service Ordering App</p>
