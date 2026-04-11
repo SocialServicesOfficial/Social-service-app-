@@ -4,11 +4,8 @@
   
 <a href="https://ibb.co/gLrPjrdp"><img src="https://i.ibb.co/jP8W68z2/file-0000000023b07208b7999629e36493a8.png" alt="file-0000000023b07208b7999629e36493a8" border="0"></a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=6C63FF&center=true&vCenter=true&width=800&lines=Social+Services+Official;Smart+Service+Ordering+App" />
-</p>
 
-  <a href="https://ibb.co/Q7Jy5YmN"><img src="https://i.ibb.co/WNHmTBKy/file-0000000023b07208b7999629e36493a8.png" alt="file-0000000023b07208b7999629e36493a8" border="0"></a>
+ <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=6C63FF&center=true&vCenter=true&width=800&lines=Social+Services+Official;Smart+Service+Ordering+App" />
 
 
 Welcome to Social Services Official, a modern, user-friendly, and powerful service management application designed to simplify the way users request and manage digital services. This platform is built with a focus on smooth user experience, real-time interaction, and professional service delivery.
