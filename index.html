@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Realistic Call App</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="phone-shell">
+      <section class="screen">
+        <p class="status" id="callStatus">Ready to call</p>
+        <h1 id="displayNumber">+91</h1>
+        <p class="sub" id="callTimer">00:00</p>
+
+        <div class="actions">
+          <button id="muteBtn" class="action-btn" disabled>Mute</button>
+          <button id="speakerBtn" class="action-btn" disabled>Speaker</button>
+          <button id="clearBtn" class="action-btn">Clear</button>
+        </div>
+
+        <div class="dialpad" id="dialpad">
+          <button data-key="1">1</button>
+          <button data-key="2">2<span>ABC</span></button>
+          <button data-key="3">3<span>DEF</span></button>
+          <button data-key="4">4<span>GHI</span></button>
+          <button data-key="5">5<span>JKL</span></button>
+          <button data-key="6">6<span>MNO</span></button>
+          <button data-key="7">7<span>PQRS</span></button>
+          <button data-key="8">8<span>TUV</span></button>
+          <button data-key="9">9<span>WXYZ</span></button>
+          <button data-key="*">*</button>
+          <button data-key="0">0<span>+</span></button>
+          <button data-key="#">#</button>
+        </div>
+
+        <div class="call-controls">
+          <button id="callBtn" class="call">Call</button>
+          <button id="endBtn" class="end" disabled>End</button>
+        </div>
+
+        <p class="hint">Tip: mobile par Call dabane se phone dialer khulega.</p>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
